@@ -1,0 +1,469 @@
+{
+  "edition": "Cozy Storybook V9 · Lecture à illustration imprimée (anti-pixellisation)",
+  "stories": [
+    {
+      "id": 0,
+      "title": "A Letter from Hogwarts",
+      "level": "A2",
+      "art_source": "A18",
+      "cover": "assets/covers/cover-0.webp",
+      "reader_scene": "assets/reading-scenes/scene-0.webp"
+    },
+    {
+      "id": 1,
+      "title": "The Dragon’s Bargain",
+      "level": "B1",
+      "art_source": "K4",
+      "cover": "assets/covers/cover-1.webp",
+      "reader_scene": "assets/reading-scenes/scene-1.webp"
+    },
+    {
+      "id": 2,
+      "title": "The Last Spellwright",
+      "level": "B2",
+      "art_source": "A30",
+      "cover": "assets/covers/cover-2.webp",
+      "reader_scene": "assets/reading-scenes/scene-2.webp"
+    },
+    {
+      "id": 3,
+      "title": "The Map That Moved",
+      "level": "A2",
+      "art_source": "A14",
+      "cover": "assets/covers/cover-3.webp",
+      "reader_scene": "assets/reading-scenes/scene-3.webp"
+    },
+    {
+      "id": 4,
+      "title": "The School of Shadows",
+      "level": "B1",
+      "art_source": "A10",
+      "cover": "assets/covers/cover-4.webp",
+      "reader_scene": "assets/reading-scenes/scene-4.webp"
+    },
+    {
+      "id": 5,
+      "title": "The Clockwork Witch",
+      "level": "B1",
+      "art_source": "A05",
+      "cover": "assets/covers/cover-5.webp",
+      "reader_scene": "assets/reading-scenes/scene-5.webp"
+    },
+    {
+      "id": 6,
+      "title": "The Parliament of Wolves",
+      "level": "B2",
+      "art_source": "A09",
+      "cover": "assets/covers/cover-6.webp",
+      "reader_scene": "assets/reading-scenes/scene-6.webp"
+    },
+    {
+      "id": 7,
+      "title": "The Memory Merchant",
+      "level": "B2",
+      "art_source": "A15",
+      "cover": "assets/covers/cover-7.webp",
+      "reader_scene": "assets/reading-scenes/scene-7.webp"
+    },
+    {
+      "id": 8,
+      "title": "Signal Lost",
+      "level": "A2",
+      "art_source": "A04",
+      "cover": "assets/covers/cover-8.webp",
+      "reader_scene": "assets/reading-scenes/scene-8.webp"
+    },
+    {
+      "id": 9,
+      "title": "The Last Transmission",
+      "level": "B1",
+      "art_source": "C04",
+      "cover": "assets/covers/cover-9.webp",
+      "reader_scene": "assets/reading-scenes/scene-9.webp"
+    },
+    {
+      "id": 10,
+      "title": "The Wrong Door",
+      "level": "A2",
+      "art_source": "A25",
+      "cover": "assets/covers/cover-10.webp",
+      "reader_scene": "assets/reading-scenes/scene-10.webp"
+    },
+    {
+      "id": 11,
+      "title": "The Cold Case",
+      "level": "B1",
+      "art_source": "C11",
+      "cover": "assets/covers/cover-11.webp",
+      "reader_scene": "assets/reading-scenes/scene-11.webp"
+    },
+    {
+      "id": 12,
+      "title": "Something in the Static",
+      "level": "B1",
+      "art_source": "C03",
+      "cover": "assets/covers/cover-12.webp",
+      "reader_scene": "assets/reading-scenes/scene-12.webp"
+    },
+    {
+      "id": 13,
+      "title": "Two Stops on the Northern Line",
+      "level": "B1",
+      "art_source": "A20",
+      "cover": "assets/covers/cover-13.webp",
+      "reader_scene": "assets/reading-scenes/scene-13.webp"
+    },
+    {
+      "id": 16,
+      "title": "The Interview",
+      "level": "B2",
+      "art_source": "A03",
+      "cover": "assets/covers/cover-16.webp",
+      "reader_scene": "assets/reading-scenes/scene-16.webp"
+    },
+    {
+      "id": 17,
+      "title": "Don’t Look at the Door",
+      "level": "A2",
+      "art_source": "C17",
+      "cover": "assets/covers/cover-17.webp",
+      "reader_scene": "assets/reading-scenes/scene-17.webp"
+    },
+    {
+      "id": 18,
+      "title": "The Inheritance",
+      "level": "A2",
+      "art_source": "A12",
+      "cover": "assets/covers/cover-18.webp",
+      "reader_scene": "assets/reading-scenes/scene-18.webp"
+    },
+    {
+      "id": 19,
+      "title": "Offline",
+      "level": "A2",
+      "art_source": "A31",
+      "cover": "assets/covers/cover-19.webp",
+      "reader_scene": "assets/reading-scenes/scene-19.webp"
+    },
+    {
+      "id": 20,
+      "title": "The First Message",
+      "level": "B2",
+      "art_source": "A13",
+      "cover": "assets/covers/cover-20.webp",
+      "reader_scene": "assets/reading-scenes/scene-20.webp"
+    },
+    {
+      "id": 100,
+      "title": "The Robot Who Cried",
+      "level": "A2",
+      "art_source": "A07",
+      "cover": "assets/covers/cover-100.webp",
+      "reader_scene": "assets/reading-scenes/scene-100.webp"
+    },
+    {
+      "id": 101,
+      "title": "The Archive",
+      "level": "B2",
+      "art_source": "C05",
+      "cover": "assets/covers/cover-101.webp",
+      "reader_scene": "assets/reading-scenes/scene-101.webp"
+    },
+    {
+      "id": 102,
+      "title": "Platform Nine",
+      "level": "A2",
+      "art_source": "A16",
+      "cover": "assets/covers/cover-102.webp",
+      "reader_scene": "assets/reading-scenes/scene-102.webp"
+    },
+    {
+      "id": 103,
+      "title": "The Duplicate",
+      "level": "B1",
+      "art_source": "C16",
+      "cover": "assets/covers/cover-103.webp",
+      "reader_scene": "assets/reading-scenes/scene-103.webp"
+    },
+    {
+      "id": 104,
+      "title": "The Neighbour",
+      "level": "B1",
+      "art_source": "A23",
+      "cover": "assets/covers/cover-104.webp",
+      "reader_scene": "assets/reading-scenes/scene-104.webp"
+    },
+    {
+      "id": 105,
+      "title": "Forty-Eight Hours",
+      "level": "B2",
+      "art_source": "A22",
+      "cover": "assets/covers/cover-105.webp",
+      "reader_scene": "assets/reading-scenes/scene-105.webp"
+    },
+    {
+      "id": 106,
+      "title": "The Missing Minute",
+      "level": "A2",
+      "art_source": "A00",
+      "cover": "assets/covers/cover-106.webp",
+      "reader_scene": "assets/reading-scenes/scene-106.webp"
+    },
+    {
+      "id": 107,
+      "title": "The Bystander",
+      "level": "B1",
+      "art_source": "C14",
+      "cover": "assets/covers/cover-107.webp",
+      "reader_scene": "assets/reading-scenes/scene-107.webp"
+    },
+    {
+      "id": 108,
+      "title": "The Night Accountant",
+      "level": "B2",
+      "art_source": "A27",
+      "cover": "assets/covers/cover-108.webp",
+      "reader_scene": "assets/reading-scenes/scene-108.webp"
+    },
+    {
+      "id": 109,
+      "title": "The Light Under the Bed",
+      "level": "A2",
+      "art_source": "K5",
+      "cover": "assets/covers/cover-109.webp",
+      "reader_scene": "assets/reading-scenes/scene-109.webp"
+    },
+    {
+      "id": 110,
+      "title": "The House That Remembered",
+      "level": "B1",
+      "art_source": "A28",
+      "cover": "assets/covers/cover-110.webp",
+      "reader_scene": "assets/reading-scenes/scene-110.webp"
+    },
+    {
+      "id": 111,
+      "title": "The Waiting Room",
+      "level": "B2",
+      "art_source": "A21",
+      "cover": "assets/covers/cover-111.webp",
+      "reader_scene": "assets/reading-scenes/scene-111.webp"
+    },
+    {
+      "id": 112,
+      "title": "The Group Chat",
+      "level": "A2",
+      "art_source": "K6",
+      "cover": "assets/covers/cover-112.webp",
+      "reader_scene": "assets/reading-scenes/scene-112.webp"
+    },
+    {
+      "id": 113,
+      "title": "The Last Analogue Summer",
+      "level": "B2",
+      "art_source": "A01",
+      "cover": "assets/covers/cover-113.webp",
+      "reader_scene": "assets/reading-scenes/scene-113.webp"
+    },
+    {
+      "id": 300,
+      "title": "A Study in Scarlet — The First Meeting",
+      "level": "A2",
+      "art_source": "C10",
+      "cover": "assets/covers/cover-300.webp",
+      "reader_scene": "assets/reading-scenes/scene-300.webp"
+    },
+    {
+      "id": 301,
+      "title": "The War of the Worlds — The Cylinder Opens",
+      "level": "B1",
+      "art_source": "C12",
+      "cover": "assets/covers/cover-301.webp",
+      "reader_scene": "assets/reading-scenes/scene-301.webp"
+    },
+    {
+      "id": 302,
+      "title": "The Tell-Tale Heart",
+      "level": "B1",
+      "art_source": "K0",
+      "cover": "assets/covers/cover-302.webp",
+      "reader_scene": "assets/reading-scenes/scene-302.webp"
+    },
+    {
+      "id": 303,
+      "title": "The Importance of Being Earnest — A Serious Conversation",
+      "level": "A2",
+      "art_source": "C08",
+      "cover": "assets/covers/cover-303.webp",
+      "reader_scene": "assets/reading-scenes/scene-303.webp"
+    },
+    {
+      "id": 304,
+      "title": "The Call of the Wild — Into the North",
+      "level": "B2",
+      "art_source": "A26",
+      "cover": "assets/covers/cover-304.webp",
+      "reader_scene": "assets/reading-scenes/scene-304.webp"
+    },
+    {
+      "id": 305,
+      "title": "Scientists Warn: 1.5°C Is Almost Gone",
+      "level": "B1",
+      "art_source": "A02",
+      "cover": "assets/covers/cover-305.webp",
+      "reader_scene": "assets/reading-scenes/scene-305.webp"
+    },
+    {
+      "id": 306,
+      "title": "Can AI Be Truly Creative?",
+      "level": "B2",
+      "art_source": "C07",
+      "cover": "assets/covers/cover-306.webp",
+      "reader_scene": "assets/reading-scenes/scene-306.webp"
+    },
+    {
+      "id": 400,
+      "title": "The Frog Prince",
+      "level": "A2",
+      "art_source": "C09",
+      "cover": "assets/covers/cover-400.webp",
+      "reader_scene": "assets/reading-scenes/scene-400.webp"
+    },
+    {
+      "id": 401,
+      "title": "The Master Thief",
+      "level": "B1",
+      "art_source": "A24",
+      "cover": "assets/covers/cover-401.webp",
+      "reader_scene": "assets/reading-scenes/scene-401.webp"
+    },
+    {
+      "id": 402,
+      "title": "The King of Elfland's Daughter",
+      "level": "B2",
+      "art_source": "A11",
+      "cover": "assets/covers/cover-402.webp",
+      "reader_scene": "assets/reading-scenes/scene-402.webp"
+    },
+    {
+      "id": 403,
+      "title": "From the Earth to the Moon",
+      "level": "A2",
+      "art_source": "A29",
+      "cover": "assets/covers/cover-403.webp",
+      "reader_scene": "assets/reading-scenes/scene-403.webp"
+    },
+    {
+      "id": 404,
+      "title": "The Machine Stops",
+      "level": "B1",
+      "art_source": "K2",
+      "cover": "assets/covers/cover-404.webp",
+      "reader_scene": "assets/reading-scenes/scene-404.webp"
+    },
+    {
+      "id": 405,
+      "title": "Frankenstein, or The Modern Prometheus",
+      "level": "B2",
+      "art_source": "A17",
+      "cover": "assets/covers/cover-405.webp",
+      "reader_scene": "assets/reading-scenes/scene-405.webp"
+    },
+    {
+      "id": 406,
+      "title": "The Woman in White",
+      "level": "A2",
+      "art_source": "A06",
+      "cover": "assets/covers/cover-406.webp",
+      "reader_scene": "assets/reading-scenes/scene-406.webp"
+    },
+    {
+      "id": 407,
+      "title": "Dracula — The Castle at Night",
+      "level": "B1",
+      "art_source": "C13",
+      "cover": "assets/covers/cover-407.webp",
+      "reader_scene": "assets/reading-scenes/scene-407.webp"
+    },
+    {
+      "id": 408,
+      "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "level": "B2",
+      "art_source": "C00",
+      "cover": "assets/covers/cover-408.webp",
+      "reader_scene": "assets/reading-scenes/scene-408.webp"
+    },
+    {
+      "id": 409,
+      "title": "The Red-Headed League",
+      "level": "A2",
+      "art_source": "K1",
+      "cover": "assets/covers/cover-409.webp",
+      "reader_scene": "assets/reading-scenes/scene-409.webp"
+    },
+    {
+      "id": 410,
+      "title": "The Murders in the Rue Morgue",
+      "level": "B1",
+      "art_source": "C01",
+      "cover": "assets/covers/cover-410.webp",
+      "reader_scene": "assets/reading-scenes/scene-410.webp"
+    },
+    {
+      "id": 411,
+      "title": "The Moonstone",
+      "level": "B2",
+      "art_source": "A08",
+      "cover": "assets/covers/cover-411.webp",
+      "reader_scene": "assets/reading-scenes/scene-411.webp"
+    },
+    {
+      "id": 412,
+      "title": "Oh Whistle, And I'll Come To You",
+      "level": "A2",
+      "art_source": "K7",
+      "cover": "assets/covers/cover-412.webp",
+      "reader_scene": "assets/reading-scenes/scene-412.webp"
+    },
+    {
+      "id": 413,
+      "title": "The Yellow Wallpaper",
+      "level": "B1",
+      "art_source": "C02",
+      "cover": "assets/covers/cover-413.webp",
+      "reader_scene": "assets/reading-scenes/scene-413.webp"
+    },
+    {
+      "id": 414,
+      "title": "The Turn of the Screw",
+      "level": "B2",
+      "art_source": "C15",
+      "cover": "assets/covers/cover-414.webp",
+      "reader_scene": "assets/reading-scenes/scene-414.webp"
+    },
+    {
+      "id": 415,
+      "title": "The Garden Party",
+      "level": "A2",
+      "art_source": "A19",
+      "cover": "assets/covers/cover-415.webp",
+      "reader_scene": "assets/reading-scenes/scene-415.webp"
+    },
+    {
+      "id": 416,
+      "title": "The Story of an Hour",
+      "level": "B1",
+      "art_source": "K3",
+      "cover": "assets/covers/cover-416.webp",
+      "reader_scene": "assets/reading-scenes/scene-416.webp"
+    },
+    {
+      "id": 417,
+      "title": "Mrs Dalloway",
+      "level": "B2",
+      "art_source": "C06",
+      "cover": "assets/covers/cover-417.webp",
+      "reader_scene": "assets/reading-scenes/scene-417.webp"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+MAKE ME READ — COZY STORYBOOK V9 · VISUELS INTÉRIEURS
+
+CORRECTION DU PROBLÈME DE PIXELLISATION
+Les 58 peintures de la V8 proviennent de petites vignettes découpées dans des
+planches de plusieurs couvertures. Les agrandir de 5 à 7 fois ne produit pas de
+vrais détails : les pixels sont interpolés et l’image paraît floue/pixellisée.
+
+Cette version conserve la personnalité des 58 illustrations, mais évite de
+les afficher en plein écran : sur la page droite du livre, chaque illustration
+est désormais présentée comme une gravure de collection, dans un cadre réduit,
+sur une page ivoire aux ornements et à la typographie nette. La grande surface
+autour du visuel est une ambiance discrètement floutée, volontairement douce.
+Les pages des livres, glossaires, stratégies et outils DYS sont inchangés.
+
+IMPORTANT : cette solution corrige l'AFFICHAGE des petites images, pas leur
+résolution native. Pour avoir de grandes images HD nettes sur toute la page,
+il faut recréer chaque illustration individuelle directement en 1024x1536
+(ou davantage), SANS dériver l’image d’une planche mosaïque. On pourra
+les remplacer ensuite sans toucher aux textes ni à la structure du lecteur.
+
+Pour tester : décompresser le ZIP, ouvrir index.html dans Chrome ou Edge.
+Pour Github Pages : transférer TOUS les fichiers, notamment le dossier assets.
