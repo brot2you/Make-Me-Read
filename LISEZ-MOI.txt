@@ -1,22 +1,17 @@
-MAKE ME READ — COZY STORYBOOK V9 · VISUELS INTÉRIEURS
+MAKE ME READ — VERSION LÉGÈRE POUR GITHUB PAGES
 
-CORRECTION DU PROBLÈME DE PIXELLISATION
-Les 58 peintures de la V8 proviennent de petites vignettes découpées dans des
-planches de plusieurs couvertures. Les agrandir de 5 à 7 fois ne produit pas de
-vrais détails : les pixels sont interpolés et l’image paraît floue/pixellisée.
+- Contenus et fonctionnalités identiques à la V9.
+- 58 couvertures et 58 illustrations intérieures préservées.
+- Fichiers JPEG/PNG inutilisés supprimés; illustrations optimisées en WebP.
+- Les titres des couvertures et le logo conservent leurs résolutions d'origine.
 
-Cette version conserve la personnalité des 58 illustrations, mais évite de
-les afficher en plein écran : sur la page droite du livre, chaque illustration
-est désormais présentée comme une gravure de collection, dans un cadre réduit,
-sur une page ivoire aux ornements et à la typographie nette. La grande surface
-autour du visuel est une ambiance discrètement floutée, volontairement douce.
-Les pages des livres, glossaires, stratégies et outils DYS sont inchangés.
+INSTALLATION
+1. Décompresser cette archive.
+2. Dans GitHub Desktop, ouvrir le dossier du dépôt Make-Me-Read.
+3. Supprimer les anciens fichiers du site (au moins l'ancien dossier assets)
+   puis copier index.html, les fichiers JS/CSS et le nouveau dossier assets.
+4. Commit to main puis Push origin.
 
-IMPORTANT : cette solution corrige l'AFFICHAGE des petites images, pas leur
-résolution native. Pour avoir de grandes images HD nettes sur toute la page,
-il faut recréer chaque illustration individuelle directement en 1024x1536
-(ou davantage), SANS dériver l’image d’une planche mosaïque. On pourra
-les remplacer ensuite sans toucher aux textes ni à la structure du lecteur.
-
-Pour tester : décompresser le ZIP, ouvrir index.html dans Chrome ou Edge.
-Pour Github Pages : transférer TOUS les fichiers, notamment le dossier assets.
+ATTENTION : copier tous les fichiers et sous-dossiers, pas le ZIP lui-même.
+N'envoyer que les fichiers réellement contenus dans cette version,
+car elle ne contient plus les anciennes images inutilisées.
