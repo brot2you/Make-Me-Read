@@ -214,7 +214,7 @@ body.mask-on .mask-bot{display:block}
 .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;padding:9px 18px;border-radius:28px;font-size:0.8rem;font-weight:600;opacity:0;pointer-events:none;transition:opacity .3s;z-index:999;white-space:nowrap;font-family:var(--fu)}
 .toast.show{opacity:1}
 </style>
-<link rel="stylesheet" href="storybook.css?v=9"/>
+<link rel="stylesheet" href="storybook.css?v=10"/><link rel="stylesheet" href="mobile-v10.css?v=10"/>
 </head>
 <body>
 <!-- Reading ruler & mask -->
@@ -271,9 +271,10 @@ body.mask-on .mask-bot{display:block}
     </div>
     <div class="genre-tiles" id="genreTiles" aria-label="Choisir un univers de lecture"></div>
     <div class="shelf-heading"><div><span class="eyebrow">DÉCOUVRE TA PROCHAINE HISTOIRE</span><h2>Notre sélection du moment ✦</h2></div><button onclick="showExplore()">Tous les livres →</button></div>
+    <p class="new-reads-notice" role="note">📚 70 histoires au choix · <strong>12 grands récits originaux</strong> à découvrir, des niveaux A2 à B2</p>
     <div class="featured-shelf" id="featuredShelf"></div>
   </section>
-  <section class="catalogue-top" id="catalogueTop"><div class="explore-banner"><div class="explore-banner-text"><span class="eyebrow">✦ CHOISIS TON UNIVERS ✦</span><h1>Explorer les histoires</h1><p>Ton prochain voyage commence ici !</p></div></div><div class="catalogue-controls"><label class="search-wrap"><span aria-hidden="true">⌕</span><input type="search" aria-label="Rechercher une histoire" id="bookSearch" oninput="filterCatalogue()" placeholder="Rechercher une histoire…"></label><div class="level-controls"><button class="filter-level active" data-lvl="all" onclick="setLevelFilter('all')">Tous les niveaux</button><button class="filter-level a2" data-lvl="A2" onclick="setLevelFilter('A2')">A2</button><button class="filter-level b1" data-lvl="B1" onclick="setLevelFilter('B1')">B1</button><button class="filter-level b2" data-lvl="B2" onclick="setLevelFilter('B2')">B2</button></div></div></section>
+  <section class="catalogue-top" id="catalogueTop"><div class="explore-banner"><div class="explore-banner-text"><span class="eyebrow">✦ CHOISIS TON UNIVERS ✦</span><h1>Explorer les histoires</h1><p>Ton prochain voyage commence ici !</p></div></div><div class="catalogue-controls"><label class="search-wrap"><span aria-hidden="true">⌕</span><input type="search" aria-label="Rechercher une histoire" id="bookSearch" oninput="filterCatalogue()" placeholder="Rechercher une histoire…"></label><div class="level-controls"><button class="filter-level active" data-lvl="all" onclick="setLevelFilter('all')">Tous les niveaux</button><button class="filter-level a2" data-lvl="A2" onclick="setLevelFilter('A2')">A2</button><button class="filter-level b1" data-lvl="B1" onclick="setLevelFilter('B1')">B1</button><button class="filter-level b2" data-lvl="B2" onclick="setLevelFilter('B2')">B2</button></div><div class="length-controls" aria-label="Filtrer par longueur"><button class="filter-length active" data-length="all" onclick="setLengthFilter('all')">Toutes les durées</button><button class="filter-length" data-length="long" onclick="setLengthFilter('long')">📖 Grands récits (12)</button><button class="filter-length" data-length="short" onclick="setLengthFilter('short')">Histoires courtes</button></div></div></section>
   <div class="home-tabs"><button class="htab active" onclick="switchHomeTab('level',this)">Par niveau</button><button class="htab" onclick="switchHomeTab('genre',this)">Par genre</button></div>
   <div id="viewLevel"></div><div id="viewGenre" style="display:none"></div>
 </div>
@@ -285,5 +286,5 @@ body.mask-on .mask-bot{display:block}
 <div class="toast" id="toast"></div>
 
 
-<script src="data.js"></script><script src="original.js"></script><script src="storybook.js?v=9"></script></body>
+<script src="data.js"></script><script src="extra-data.js"></script><script src="original.js"></script><script src="storybook.js?v=10"></script></body>
 </html>

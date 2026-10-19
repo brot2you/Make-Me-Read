@@ -1,5 +1,5 @@
 {
-  "edition": "Cozy Storybook V9 · Lecture à illustration imprimée (anti-pixellisation)",
+  "edition": "Cozy Storybook V10 — Portrait mobile · 70 histoires · 12 grands récits",
   "stories": [
     {
       "id": 0,
@@ -464,6 +464,126 @@
       "art_source": "C06",
       "cover": "assets/covers/cover-417.webp",
       "reader_scene": "assets/reading-scenes/scene-417.webp"
+    },
+    {
+      "id": 500,
+      "title": "The Secret of Willow Station",
+      "level": "A2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-500.webp",
+      "reader_scene": "assets/reading-scenes/scene-500.webp",
+      "long_read": true,
+      "words": 750
+    },
+    {
+      "id": 501,
+      "title": "The Lighthouse Postcard",
+      "level": "A2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-501.webp",
+      "reader_scene": "assets/reading-scenes/scene-501.webp",
+      "long_read": true,
+      "words": 743
+    },
+    {
+      "id": 502,
+      "title": "The Midnight Library Cat",
+      "level": "A2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-502.webp",
+      "reader_scene": "assets/reading-scenes/scene-502.webp",
+      "long_read": true,
+      "words": 729
+    },
+    {
+      "id": 503,
+      "title": "The Rainy-Day Detective Club",
+      "level": "A2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-503.webp",
+      "reader_scene": "assets/reading-scenes/scene-503.webp",
+      "long_read": true,
+      "words": 716
+    },
+    {
+      "id": 504,
+      "title": "The Clockmaker's Garden",
+      "level": "B1",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-504.webp",
+      "reader_scene": "assets/reading-scenes/scene-504.webp",
+      "long_read": true,
+      "words": 845
+    },
+    {
+      "id": 505,
+      "title": "The Museum After Closing",
+      "level": "B1",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-505.webp",
+      "reader_scene": "assets/reading-scenes/scene-505.webp",
+      "long_read": true,
+      "words": 813
+    },
+    {
+      "id": 506,
+      "title": "The Island of Paper Birds",
+      "level": "B1",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-506.webp",
+      "reader_scene": "assets/reading-scenes/scene-506.webp",
+      "long_read": true,
+      "words": 808
+    },
+    {
+      "id": 507,
+      "title": "The Blue Door on Baker Street",
+      "level": "B1",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-507.webp",
+      "reader_scene": "assets/reading-scenes/scene-507.webp",
+      "long_read": true,
+      "words": 767
+    },
+    {
+      "id": 508,
+      "title": "The Last Observatory",
+      "level": "B2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-508.webp",
+      "reader_scene": "assets/reading-scenes/scene-508.webp",
+      "long_read": true,
+      "words": 908
+    },
+    {
+      "id": 509,
+      "title": "The City Beneath the Tide",
+      "level": "B2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-509.webp",
+      "reader_scene": "assets/reading-scenes/scene-509.webp",
+      "long_read": true,
+      "words": 903
+    },
+    {
+      "id": 510,
+      "title": "The Orchestra of Forgotten Names",
+      "level": "B2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-510.webp",
+      "reader_scene": "assets/reading-scenes/scene-510.webp",
+      "long_read": true,
+      "words": 873
+    },
+    {
+      "id": 511,
+      "title": "The Cartographer's Promise",
+      "level": "B2",
+      "art_source": "storybook image composition V10",
+      "cover": "assets/covers/cover-511.webp",
+      "reader_scene": "assets/reading-scenes/scene-511.webp",
+      "long_read": true,
+      "words": 900
     }
   ]
 }

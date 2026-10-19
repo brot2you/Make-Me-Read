@@ -1,0 +1,26 @@
+MAKE ME READ — COZY STORYBOOK V10
+=================================
+
+NOUVEAUTÉS
+• Lecture smartphone en portrait : page unique, largeur adaptée, texte défilant normalement, commandes tactiles de changement de page.
+• 12 nouvelles histoires originales de 716 à 908 mots (A2 : 4, B1 : 4, B2 : 4).
+• 70 histoires au total (58 histoires d'origine conservées + 12 nouveaux récits).
+• 12 couvertures et 12 images intérieures associées aux nouveaux récits.
+• Filtres « Grands récits » et « Histoires courtes » dans Explorer.
+• Reprise de la lecture à la dernière page grâce au stockage local du navigateur.
+• Tous les outils existants sont conservés : glossaires, stratégies, feedback, DYS.
+
+INSTALLATION SUR GITHUB (LIMITE DE 100 FICHIERS PAR IMPORT)
+• ZIP LOT 1 : décompresser puis envoyer à la racine du dépôt index.html, *.js, *.css, COVERS-MANIFEST.json, assets/*, assets/covers/* (moins de 100 fichiers).
+• ZIP LOT 2 : décompresser puis envoyer le dossier assets/reading-scenes avec ses illustrations (70 fichiers).
+• Ne renommez ni ne déplacez les sous-dossiers ; les deux lots se réunissent dans le même dépôt.
+• Les fichiers index.html et extra-data.js sont indissociables : ce second script contient les 12 nouvelles histoires.
+• Après publication : attendre quelques minutes, actualiser avec Ctrl+F5.
+
+NOTE SUR LES ILLUSTRATIONS
+• Les nouvelles scènes 500–501 proviennent d'illustrations narratives originales en haute définition.
+• Les autres scènes utilisent des compositions retravaillées à partir des illustrations de la bibliothèque précédente ; ce ne sont pas des peintures HD inédites indépendantes.
+• Les nouveaux titres restent du texte HTML, et non du texte imprimé dans les images.
+
+CONTENUS
+Les 58 textes antérieurs restent inchangés. Les nouvelles histoires sont originales, élaborées pour un usage pédagogique et classées A2, B1, B2.
