@@ -1,2 +1,2 @@
-MAKE ME READ V12 - LOT 1 couvertures
+MAKE ME READ V12 - LOT 2 illustrations interieures
 Extraire le ZIP, envoyer les fichiers sur GitHub a la racine du depot en conservant assets/covers/ et assets/reading-scenes/. Remplacer les fichiers existants de meme nom. Ne pas envoyer les ZIP eux-memes. Installer les deux lots, dans cet ordre. Aucun changement de index.html necessaire si V10 est deja publie et fonctionne.
